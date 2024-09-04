@@ -32,6 +32,6 @@ This project implements a Retrieval-Augmented Generation (RAG) system using a fi
 ## Project Structure
 
 - `main.py`: FastAPI application setup
-- `rag_system.py`: Core RAG system implementation
+- `rag.py`: Core RAG system implementation
 - `requirements.txt`: List of Python dependencies
 
